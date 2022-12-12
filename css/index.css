@@ -1,0 +1,66 @@
+body{
+	background-color: rgb(20,20,20);
+}
+
+header{
+	color: rgb(229,229,229);
+}
+
+header h1{
+	font-family: 'Segoe UI Bold', ariel, sans-serif;
+	font-size: 58px;
+	letter-spacing: 5px;
+}
+
+header h1{
+	padding-left: 70px;
+}
+
+header h1{
+	position: relative;
+	top: 10px;
+}
+
+nav{
+	height: 75px;
+}
+nav{
+	position: relative;
+	top: -80px;
+	left: -50px;
+}
+
+nav ul li{
+	color: rgb(229,229,229);
+	font-size: 25px;
+	font-family: 'Segoe UI light', ariel, sans-serif;
+	list-style-type: none;
+	float: right;
+	letter-spacing: 5px;
+}
+
+nav ul li a{
+	color: rgb(229,229,229);
+	text-decoration: none;
+	margin: 30px;
+}
+
+nav ul li a:hover{
+	color: #A94499;
+}
+
+article{
+	position: relative;
+	top: 218px;
+	left: -20px;
+	float: right;
+}
+
+img {
+	height: 356px;
+	width: 372px;
+}
+
+
+
+
